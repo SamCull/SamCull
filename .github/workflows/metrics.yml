@@ -16,10 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      EXCLUDED_REPOS: DataScience
     steps:
-      - name: Set excluded repositories
-        run: echo "::set-env name=EXCLUDED_REPOS::DataScience"
-
       - name: Fetch metrics
         uses: lowlighter/metrics@latest
         with:

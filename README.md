@@ -13,5 +13,5 @@
 
 <img alt ="top langs" align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SamCull&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only&layout=compact"/>
 
-<img alt ="top langs" align="left" width="47%" src = "https://github-readme-streak-stats.herokuapp.com/?user=SamCull&theme=dark#gh-dark-mode-only"/>
+<img alt ="streak" align="left" width="47%" src = "https://github-readme-streak-stats.herokuapp.com/?user=SamCull&theme=dark#gh-dark-mode-only"/>
 

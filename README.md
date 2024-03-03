@@ -10,8 +10,8 @@
 #### 🎓 Education
 - B.Sc Degree in Software Developemet, SETU Carlow
 ---
-<img alt = "dark mode"  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SamCull&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<!-- <img alt = "dark mode"  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SamCull&show_icons=true&theme=dark#gh-dark-mode-only"/>
 
-<img alt ="streak" align="left" width="45%" src = "https://github-readme-streak-stats.herokuapp.com/?user=SamCull&theme=dark#gh-dark-mode-only"/>
+<img alt ="streak" align="left" width="45%" src = "https://github-readme-streak-stats.herokuapp.com/?user=SamCull&theme=dark#gh-dark-mode-only"/>-->
 
 

@@ -6,7 +6,7 @@
 #### 🎓 Education
 - B.Sc Degree in Software Developemet, SETU Carlow
 
-#### 📬 How to Reach Me
+#### 📬 How to Reach Me 
 - Email: samcull2000@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sam-cullen-489a46221/
 - Website: https://samcullen.netlify.app/

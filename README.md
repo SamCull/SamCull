@@ -3,8 +3,9 @@
 
 4th Year Software developer student in SETU Carlow 
 
-#### 🎓 Education
+#### 🎓 Education & Work
 - B.Sc Degree in Software Developemet, SETU Carlow
+- ICT Service Delivery in Kerry Group
 
 #### 📬 How to Reach Me 
 - Email: samcull2000@gmail.com

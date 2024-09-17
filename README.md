@@ -5,7 +5,7 @@
 
 #### 🎓 Education & Work
 - B.Sc Degree in Software Developemet, SETU Carlow
-- ICT Service & Delivery in Kerry Group, Naas
+- ICT Service Operations, Kerry Group, Naas
 
 #### 📬 How to Reach Me 
 - Email: samcull2000@gmail.com
